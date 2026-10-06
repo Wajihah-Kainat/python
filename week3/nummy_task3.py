@@ -1,4 +1,5 @@
-import numpy as np;
+import numpy as np
+
 matrix = np.random.random((5, 5))
 
 # Normalize the matrix using standard Min-Max scaling
